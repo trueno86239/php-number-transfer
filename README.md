@@ -1,4 +1,4 @@
-# php-value-transfer
+# Přenos čísla z jednoho skriptu do druhého
 
 GET: Číslo bylo přeneseno jako součást URL.
 
